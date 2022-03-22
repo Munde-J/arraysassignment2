@@ -3,7 +3,7 @@ var x =product(arrayOf(9,8,6,5,4,3))
     println(x)
 
     //NUMBER2
-    var a = sumOfDecimals(arrayOf(3.2,4,6,"cars",5,"school",8.2,2.4))
+    var a = sumOfDecimals(arrayOf(3.2,4,6,"bars",5,"school",8.2,2.4))
     println(a)
 
     //number3
